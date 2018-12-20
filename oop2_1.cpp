@@ -9,6 +9,7 @@ int supercalculation(const bool choice)
 
 int main()
 {
+	int KS30;
 	bool choice;
 	cout<<"Enter choice"<<endl;
 	cin>>choice;
